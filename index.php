@@ -1,5 +1,7 @@
 <?php
 
+	//comment first comment
+
 	require_once('includes/config.php');
 
 	try {
